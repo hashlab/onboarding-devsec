@@ -1,0 +1,10 @@
+p {
+    color: white;
+    opacity: 1;
+}
+.slidev-layout {
+    background-color: #4E6E7D;
+    h1 {
+        color: #8EF1F9;
+    }
+}
