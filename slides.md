@@ -30,18 +30,18 @@ As 10 vulnerabilidades mais críticas da internet.
 <span class="text-2xl font-bold">Time Security</span>
 
 <div class="flex justify-between">
-    <div class="grid grid-cols-3 gap-5">
+    <div class="grid grid-cols-4 gap-5">
     <v-click>
       <div class="rounded-lg bg-gray-700 p-3">
         <img
-          src="/monastero.jpg"
+          src="/luisa.jpg"
           class="w-35"
           border="rounded-lg"
-          title="Pedro Monastero"
-          alt="Pedro Monastero"
+          title="Luisa Soares"
+          alt="Luisa Soares"
         />
-        <span class="block">Pedro Monastero</span>
-        <span class="text-xs my-1 block">Head of RDS</span>
+        <span class="block">Luisa Soares</span>
+        <span class="text-xs my-1 block">Head of Legal and Security</span>
       </div>
     </v-click>
     <v-click>
@@ -107,6 +107,19 @@ As 10 vulnerabilidades mais críticas da internet.
         />
         <span class="block">Fernando Guisso</span>
         <span class="text-xs my-1 block">Security Software Engineer</span>
+      </div>
+    </v-click>
+    <v-click>
+      <div class="rounded-lg bg-gray-700 p-3">
+        <img
+          src="/marcos.jpg"
+          class="w-35"
+          border="rounded-lg"
+          title="Marcos Nunes"
+          alt="Marcos Nunes"
+        />
+        <span class="block">Marcos Nunes</span>
+        <span class="text-xs my-1 block">LGPD Specialist</span>
       </div>
     </v-click>
     </div>
